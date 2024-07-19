@@ -1,0 +1,7 @@
+/vendor/
+.env
+/writable/*
+!writable/.htaccess
+/tests/_support/_generated/
+phpunit.xml
+phpunit.xml.dist
